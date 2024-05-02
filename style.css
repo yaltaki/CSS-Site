@@ -1,0 +1,79 @@
+body {
+    background-image: linear-gradient(105deg, #09203F 40%, #537895 95%);
+}
+
+h1 {
+    font-size: 3.5rem;
+    text-align: left;
+    margin-left: 12.5%;
+    color: rgb(150, 150, 150);
+}
+
+h2 {
+    font-size: 2.5rem;
+    text-align: left;
+    margin-left: 10%;
+    font-style: oblique;
+    color: rgb(75, 75, 75);
+}
+
+h3 {
+    font-size: 2rem;
+    font-weight: bold;
+    font-style: italic;
+    margin-bottom: -1.8rem;
+}
+
+h4 {
+    font-size: 1.2rem;
+    font-weight: 100;
+    font-style: italic;
+}
+
+h5 {
+    font-size: 1rem;
+    font-weight: 100;
+    color: darkgreen;
+    margin: 0.5rem;
+}
+
+p {
+    font-size: 1.6rem;
+    font-weight: lighter;
+    font-style: normal;
+}
+
+.aboutme {
+    color: blue;
+    margin-bottom: 3.5rem;
+}
+
+ul {
+    font-size: 1.5rem;
+    font-weight: lighter;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    background-color: powderblue;
+    border-width: 0;
+    padding: 10px;
+    opacity: 0.8;
+}
+
+.leftside {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+}
+
+.middle {
+    width: 2.5%;
+}
+
+.rightside {
+    display: flex;
+    flex-direction: column;
+    width: 77.5%;
+}
