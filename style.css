@@ -76,4 +76,5 @@ ul {
     display: flex;
     flex-direction: column;
     width: 77.5%;
+    color: blue;
 }
